@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>API Chaining Example Test</description>
+   <name>API Chaining Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3c5bcb80-b3d1-4750-a76f-539d3f5e9a37</testCaseGuid>
+</TestCaseEntity>

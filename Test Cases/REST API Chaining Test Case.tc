@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Chainig List Users -> Update User</description>
+   <name>REST API Chaining Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d87fbcf-31c8-4ff5-bacb-d785db66198d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>This is a Global Variable</description>
+      <initValue>'AX'</initValue>
+      <name>countryISOCode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>For REST Service Chaining Example</description>
+      <initValue>'Bappy'</initValue>
+      <name>USER_NAME</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
